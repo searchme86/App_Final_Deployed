@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "v16.13.2",
+    "npm": "8.1.4"
+  },
+  "scripts": {
+    "start": "node build/init.js",
+    "build:server": "babel src -d build",
+    "build:node": "npm run build:server",
+    "heroku-postbuild": "npm run build:node && cd client && npm install && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/node": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "dotenv": "^16.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}

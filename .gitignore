@@ -1,0 +1,12 @@
+# Mac system files
+.DS_store
+
+# node_modules folder
+node_modules/
+
+# API keys
+.env
+
+# build folder
+build/
+dist/
