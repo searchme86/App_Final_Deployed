@@ -7,7 +7,7 @@
 #### 1.로그인
 https://user-images.githubusercontent.com/47154709/190125160-43b96020-953b-406a-97eb-3d1f2d5a7f18.MP4
 
-#### 2.전체
+#### 2.애플리케이션 
 https://www.youtube.com/watch?v=lENCElKoD9g
 
 ### 애플리케이션 소개
