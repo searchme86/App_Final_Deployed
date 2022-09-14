@@ -69,6 +69,35 @@ models | MongoDB Schema (Category, Product, User)
 router | 라우터 (Category, Product, User)
 
 
+
+### 애플리케이션 기능 미리보기
+
+#### 상세페이지(관련상품)
+![portfolio_관련상품뷰_fleamarketagora](https://user-images.githubusercontent.com/47154709/190132573-57cb7613-2307-46a8-8402-0bb1cf271ce0.png)
+
+#### 유저페이지
+![portfolio_유저정보(비밀번호와프로필이미지)_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133429-20c31531-6cfa-4703-9c79-76e217f3cdef.png)
+
+#### 유저등록상품
+![portfolio_유저등록한상품_fleamarketagora](https://user-images.githubusercontent.com/47154709/190132964-c46f84dd-575c-43ab-9d4b-649d2fb298bd.png)
+
+#### 유저등록상품 삭제모달
+![portfolio_유저등록상품삭제모달_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133058-542b72d5-5b9c-4c2b-8c46-6be275830d3b.png)
+
+#### 카테고리(로그인 시)
+![portfolio_카테고리뷰_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133591-8c7568f4-8fa7-453d-a3c6-6119daadad5d.png)
+
+#### 카테고리 생성모달
+![portfolio_카테고리생성모달_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133683-f58516d8-ed8b-4738-9e3f-5c5e806b4d27.png)
+
+#### 카테고리 상세페이지
+![portfolio_카테고리클릭후_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133759-d1718f4f-7bd6-4b30-9a15-c30150d9f0e9.png)
+
+
+
+
+
+
 ### Package
 
 
