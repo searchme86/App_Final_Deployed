@@ -51,7 +51,7 @@ Pages | 프로젝트 페이지(Category, Product, Supports, User etc)
 Store | 리덕스 & Axios 설정파일
 
 #### api
-![스크린샷 2022-09-14 오후 6 43 42](https://user-images.githubusercontent.com/47154709/190121211-271ba586-26a2-427d-8d60-018bfa8b2771.png)
+![스크린샷 2022-09-14 오후 7 00 05](https://user-images.githubusercontent.com/47154709/190124540-d02e85a4-a6d6-4a7c-9e63-3d29d83601f0.png)
 
 폴더명 | 폴더내용
 ---| --------|
