@@ -130,37 +130,6 @@ router | 라우터 (Category, Product, User)
 #### 카테고리 상세페이지
 ![portfolio_카테고리클릭후_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133759-d1718f4f-7bd6-4b30-9a15-c30150d9f0e9.png)
 
-
-
-
-
-
-### Package
-
-
-
-
-
-
-
-
----
-개인프로젝트
----
-
-
-#### [#배포] App, Agora 어플리케이션( https://fleamarketagora.herokuapp.com/ )
-
-#### 1. 레포지토리 소개
-#### App, Agora 어플리케이션 배포 코드
----
-
-#### 2. 진행 완료된 일정
-#### - 1차 배포 : 07/22, 2022
-#### - 2차 배포 : 08/11, 2022
----
-
-#### 3. 관련 레포지토리
+#### 관련 레포지토리
 #### (작업) : https://github.com/searchme86/Deprecated-App-Market
 #### (리팩터링) : https://github.com/searchme86/Refactoring-App-agora-Market
-
