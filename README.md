@@ -1,5 +1,7 @@
-# fleamarketagora
-![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190111914-248b80d5-c262-46c0-9e58-f2b1da39d172.png)
+# [개인프로젝트] fleamarketagora (https://fleamarketagora.herokuapp.com/)
+---
+![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190112827-b5e661af-f032-405c-aef8-1c23bf0b133e.png)
+
 
 
 
