@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 + 2차 배포 : 08/11, 2022
 + 리펙토링 : 08/11 ~ 현재
 
-### 사용기술
+### 🔨4. 사용기술
 + view
   + React(18.2.0)
   + styled-components
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 + DB
   + MongoDB
   
-### 주요기능
+### ⚙️ 5. 주요기능
 + 로그인
   + 새로운 유저 생성
   + 이메일주소/비밀번호 DB 일치여부 확인
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
     + 카테고리 데이터 변경
     + 카테고리 삭제
 
-### 애플리케이션 구조
+### 🔦 6. 애플리케이션 구조
 #### client
 ![스크린샷 2022-09-14 오후 6 43 25](https://user-images.githubusercontent.com/47154709/190121151-1a363df8-eeeb-4b71-a48b-ab5297fbd35f.png)
 
@@ -71,7 +71,7 @@ models | MongoDB Schema (Category, Product, User)
 router | 라우터 (Category, Product, User)
 
 
-### package.json
+### 🔑 7. package.json
     "@bakunya/react-masonry": "^0.0.5",
     "@chakra-ui/react": "^2.2.4",
     "@emotion/react": "^11.9.3",
@@ -107,7 +107,7 @@ router | 라우터 (Category, Product, User)
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
 
-### 애플리케이션 기능 미리보기
+### 🧸 8. 애플리케이션 기능 미리보기
 
 #### 상세페이지(관련상품)
 ![portfolio_관련상품뷰_fleamarketagora](https://user-images.githubusercontent.com/47154709/190132573-57cb7613-2307-46a8-8402-0bb1cf271ce0.png)
@@ -130,6 +130,6 @@ router | 라우터 (Category, Product, User)
 #### 카테고리 상세페이지
 ![portfolio_카테고리클릭후_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133759-d1718f4f-7bd6-4b30-9a15-c30150d9f0e9.png)
 
-#### 관련 레포지토리
+#### 📄 9. 관련 레포지토리
 #### (작업) : https://github.com/searchme86/Deprecated-App-Market
 #### (리팩터링) : https://github.com/searchme86/Refactoring-App-agora-Market
