@@ -3,7 +3,7 @@
 ![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190112827-b5e661af-f032-405c-aef8-1c23bf0b133e.png)
 
 ### 애플리케이션 소개
-
+중고거래 플랫폼을 컨셉으로, 상품을 등록하고 확인할 수 있는 페이지
 
 ### 프로젝트 일정
 + 작업기간 : 06/02,2022 ~ 08/01,2022
