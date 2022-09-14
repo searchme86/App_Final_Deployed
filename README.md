@@ -1,4 +1,14 @@
 # fleamarketagora
+![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190111914-248b80d5-c262-46c0-9e58-f2b1da39d172.png)
+
+
+
+
+
+
+
+
+
 ---
 개인프로젝트
 ---
