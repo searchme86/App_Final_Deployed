@@ -1,9 +1,19 @@
 # fleamarketagora 
-### 개인프로젝트, (https://fleamarketagora.herokuapp.com/)
----
+### 개인프로젝트 (https://fleamarketagora.herokuapp.com/)
 ![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190112827-b5e661af-f032-405c-aef8-1c23bf0b133e.png)
 
+### 애플리케이션 소개
 
+
+### 프로젝트 일정
++ 작업기간 : 
++ 1차 배포 : 07/22, 2022
++ 2차 배포 : 08/11, 2022
++
+### 사용기술
+### 주요기능
+### 애플리케이션 구조
+### Package
 
 
 
