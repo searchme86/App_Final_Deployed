@@ -43,9 +43,11 @@
 ![스크린샷 2022-09-14 오후 6 43 25](https://user-images.githubusercontent.com/47154709/190121151-1a363df8-eeeb-4b71-a48b-ab5297fbd35f.png)
 
 폴더명 | 폴더내용
-components | 컴포넌트 폴더
-config | Api, Layout, Router
-
+---| --------|
+Assets | 프로젝트 에셋(이미지,폰트)
+Components | 컴포넌트 폴더
+Config | Api, Layout, Router
+Pages | 프로젝트 페이지(Category, Product, Supports, User etc)
 
 
 
