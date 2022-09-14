@@ -39,10 +39,10 @@
     + 카테고리 삭제
 
 ### 애플리케이션 구조
-client
+####client
 ![스크린샷 2022-09-14 오후 6 43 25](https://user-images.githubusercontent.com/47154709/190121151-1a363df8-eeeb-4b71-a48b-ab5297fbd35f.png)
 
-api
+####api
 ![스크린샷 2022-09-14 오후 6 43 42](https://user-images.githubusercontent.com/47154709/190121211-271ba586-26a2-427d-8d60-018bfa8b2771.png)
 
 
