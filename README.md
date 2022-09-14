@@ -2,6 +2,25 @@
 ### 개인프로젝트 (https://fleamarketagora.herokuapp.com/)
 ![portfolio_메인_fleamarketagora](https://user-images.githubusercontent.com/47154709/190112827-b5e661af-f032-405c-aef8-1c23bf0b133e.png)
 
+
+### 프로젝트 미리보기
+
+#### 전체영상
+
+
+
+
+
+#### 로그인
+https://user-images.githubusercontent.com/47154709/190125160-43b96020-953b-406a-97eb-3d1f2d5a7f18.MP4
+
+
+
+
+
+
+
+
 ### 애플리케이션 소개
 중고거래 플랫폼을 컨셉으로, 상품을 등록하고 확인할 수 있는 페이지
 
