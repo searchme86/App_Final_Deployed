@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
     + 카테고리 생성
     + 카테고리 데이터 변경
     + 카테고리 삭제
- ###+ 웹접근성   
+ ### + 웹접근성   
  ![스크린샷 2022-09-14 오후 10 55 30](https://user-images.githubusercontent.com/47154709/190175849-90d4307e-30e9-49f5-8eeb-cca9a77aa268.png)
 
 
