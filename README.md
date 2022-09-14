@@ -48,14 +48,17 @@ Assets | 프로젝트 에셋(이미지,폰트)
 Components | 컴포넌트 폴더
 Config | Api, Layout, Router
 Pages | 프로젝트 페이지(Category, Product, Supports, User etc)
-
-
-
-
+Store | 리덕스 & Axios 설정파일
 
 #### api
 ![스크린샷 2022-09-14 오후 6 43 42](https://user-images.githubusercontent.com/47154709/190121211-271ba586-26a2-427d-8d60-018bfa8b2771.png)
 
+폴더명 | 폴더내용
+---| --------|
+controllers | 라우터 경로에 따라 컨트롤러(Category, Product, User)
+middleware | 로그인(auth)(토큰) 처리
+models | MongoDB Schema (Category, Product, User)
+router | 라우터 (Category, Product, User)
 
 
 ### Package
