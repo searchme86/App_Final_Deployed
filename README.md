@@ -50,6 +50,11 @@ https://www.youtube.com/watch?v=lENCElKoD9g
         + 참고 할 컴포넌트가 많고 사용법(props 종류)이 복잡함
       + Semantic UI React
         + 에러를 경험함
+          + https://velog.io/@rohkorea86/semantic-UI-semantic-ui-css-importCreate-React-App-with-TypeScript-failing-to-compile-after-importing-Semantic-UI 
+      + React Bootstrap
+        + 리액트 학습강좌에서 사용하던 중, 버전 업그레이드 되면서 기존 컴포넌트를 사용하지 못한 경험
+          + 리액트 학습강좌 (https://www.inflearn.com/course/리액트-파이어베이스-채팅-앱)
+          + 관련 경험을 기록(‣)   
     
   + reduxjs/toolkit(1.8.3)
 + server
