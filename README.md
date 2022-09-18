@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   + MERN Stack 
 
 
-### 📝 5. 컨벤션
+### 📝 6. 컨벤션
 + 컴포넌트 파일의 확장자는 .jsx로 작성, styled-componets, redux, 데이터 파일, config 설정파일 확장자는 .js로 작성 
   + 파일 용도를 구분	
 + 컴포넌트는 function(){…} 형태로 통일
@@ -49,14 +49,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   ```
 + 구조분해할당(Destructuring)을 사용하고 값이 확실한 경우에는 점(.)연산자를 사용(ex:?.)
 
-
-
-
-
-
-
-
-### 🔨4. 사용기술
+### 🔨7. 사용기술
 + Client
   + React(18.2.0)
   + styled-components
@@ -81,6 +74,64 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   + NodeJs
 + DB
   + MongoDB
+
+
+### 💡 공통 컴포넌트
++ 페이지의 마크업과 데이터 유형에 따라 컴포넌트 분리
+  + SectionPage: 제목과 컨텐츠가 있는 페이지 
+  ```javascript
+  return (
+    <SectionUnit>
+      <SectionLayout>
+        <SectionTitle>{pageTitle}</SectionTitle>
+        <SectionContent>{children}</SectionContent>
+      </SectionLayout>
+    </SectionUnit>
+  );
+  ```
+  + SectionColorPageWithOffTitle : 컬러와 제목이 없고 컨텐츠만 있는 페이지
+  ```javascript
+  return (
+    <SectionUnit color={backgroundColor}>
+      <SectionLayout>
+        <OffScreenTitle>{offTitle}</OffScreenTitle>
+        <SectionContent>{children}</SectionContent>
+      </SectionLayout>
+    </SectionUnit>
+  );
+  ```
+  + SectionPageWithOffTitle : 제목이 없고 컨텐츠만 있는 페이지
+  ```javascript
+  return (
+    <SectionUnit>
+      <SectionLayout>
+        <OffScreenTitle>{offTitle}</OffScreenTitle>
+        <SectionContent>{children}</SectionContent>
+      </SectionLayout>
+    </SectionUnit>
+  );
+  ```
+  + SectionPage : 제목과 컨텐츠가 있는 페이지
+  ```javascript
+  return (
+    <SectionUnit>
+      <SectionLayout>
+        <SectionTitle>{pageTitle}</SectionTitle>
+        <SectionContent>{children}</SectionContent>
+      </SectionLayout>
+    </SectionUnit>
+  );
+  ```
+  + SectionPageWithDes : 제목, 제목의 설명, 컨텐츠가 있는 페이지
+  ```javascript
+    <SectionUnit>
+      <SectionLayout>
+        <SectionTitle>{pageTitle}</SectionTitle>
+        <SectionTitleDes>{pageDes}</SectionTitleDes>
+        <SectionContent>{children}</SectionContent>
+      </SectionLayout>
+    </SectionUnit>
+  ```
   
 ### ⚙️ 5. 주요기능
 + 로그인
