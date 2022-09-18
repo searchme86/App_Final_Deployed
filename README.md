@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 
 
 ### 🔨4. 사용기술
-+ view
++ Client
   + React(18.2.0)
   + styled-components
   + chakra-ui/react(2.2.4)
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
           + 관련 경험을 기록(‣)   
     
   + reduxjs/toolkit(1.8.3)
-+ server
++ Server
   + NodeJs
 + DB
   + MongoDB
