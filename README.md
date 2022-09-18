@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   + MongoDB
 
 
-### 💡 7. 공통 컴포넌트()
+### 💡 7. 공통 컴포넌트(예시)
 + 페이지의 마크업과 데이터 유형에 따라 컴포넌트 분리
   + SectionPage: 제목과 컨텐츠가 있는 페이지 
   ```javascript
