@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 
 
 ### 📝 5. 컨벤션
-+ 컴포넌트 파일의 확장자는 .jsx , styled-componets, redux 이외 설정파일의 확장자는 .js로 통일
++ 컴포넌트 파일의 확장자는 .jsx로 작성, styled-componets, redux, 데이터 파일, config 설정파일 확장자는 .js로 작성 
 + 컴포넌트는 function(){…} 형태로 통일
 + if-else구조 보다는 삼항연산자와 nullish병합 연산자(??)를 사용
   ```javascript
