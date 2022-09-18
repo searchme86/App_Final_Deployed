@@ -19,11 +19,38 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 + 2차 배포 : 08/11, 2022
 + 리펙토링 : 08/11 ~ 현재
 
+
+### 📒 프로젝트 주안점
++ 웹접근성을 준수하는 컴포넌트
+  + 시맨틱 태그(main,header)로 마크업
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🔨4. 사용기술
 + view
   + React(18.2.0)
   + styled-components
   + chakra-ui/react(2.2.4)
+    + 컴포넌트의 WAI-ARIA 속성을 자동으로 설정됨
+    + 레퍼런스의 가독성이 좋음
+    + react-hook-form 지원
+    + 핵심적인 기능의 컴포넌트 종류만 제공
+    + 다른 UI FrameWork을 사용하며 겪은 어려움
+      + Material UI
+        + 참고 할 컴포넌트가 많고 사용법(props 종류)이 복잡함
+      + Semantic UI React
+        + 에러를 경험함
+    
   + reduxjs/toolkit(1.8.3)
 + server
   + NodeJs
