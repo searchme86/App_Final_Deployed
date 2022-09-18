@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   + MERN Stack 
 
 
-### 📝 6. 컨벤션
+### 📝 5. 컨벤션
 + 컴포넌트 파일의 확장자는 .jsx로 작성, styled-componets, redux, 데이터 파일, config 설정파일 확장자는 .js로 작성 
   + 파일 용도를 구분	
 + 컴포넌트는 function(){…} 형태로 통일
@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   ```
 + 구조분해할당(Destructuring)을 사용하고 값이 확실한 경우에는 점(.)연산자를 사용(ex:?.)
 
-### 🔨7. 사용기술
+### 🔨6. 사용기술
 + Client
   + React(18.2.0)
   + styled-components
@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
   + MongoDB
 
 
-### 💡 공통 컴포넌트
+### 💡 7. 공통 컴포넌트()
 + 페이지의 마크업과 데이터 유형에 따라 컴포넌트 분리
   + SectionPage: 제목과 컨텐츠가 있는 페이지 
   ```javascript
@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
     </SectionUnit>
   ```
   
-### ⚙️ 5. 주요기능
+### ⚙️ 8. 주요기능
 + 로그인
   + 새로운 유저 생성
   + 이메일주소/비밀번호 DB 일치여부 확인
@@ -154,7 +154,7 @@ https://www.youtube.com/watch?v=lENCElKoD9g
  ![스크린샷 2022-09-14 오후 10 55 30](https://user-images.githubusercontent.com/47154709/190175849-90d4307e-30e9-49f5-8eeb-cca9a77aa268.png)
 
 
-### 🔦 6. 애플리케이션 구조
+### 🔦 9. 애플리케이션 구조
 #### client
 ![스크린샷 2022-09-14 오후 6 43 25](https://user-images.githubusercontent.com/47154709/190121151-1a363df8-eeeb-4b71-a48b-ab5297fbd35f.png)
 
@@ -177,7 +177,7 @@ models | MongoDB Schema (Category, Product, User)
 router | 라우터 (Category, Product, User)
 
 
-### 🔑 7. package.json
+### 🔑 10. package.json
     "@bakunya/react-masonry": "^0.0.5",
     "@chakra-ui/react": "^2.2.4",
     "@emotion/react": "^11.9.3",
@@ -213,7 +213,7 @@ router | 라우터 (Category, Product, User)
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
 
-### 🧸 8. 애플리케이션 기능 미리보기
+### 🧸 11. 애플리케이션 기능 미리보기
 
 #### 상세페이지(관련상품)
 ![portfolio_관련상품뷰_fleamarketagora](https://user-images.githubusercontent.com/47154709/190132573-57cb7613-2307-46a8-8402-0bb1cf271ce0.png)
@@ -236,6 +236,6 @@ router | 라우터 (Category, Product, User)
 #### 카테고리 상세페이지
 ![portfolio_카테고리클릭후_fleamarketagora](https://user-images.githubusercontent.com/47154709/190133759-d1718f4f-7bd6-4b30-9a15-c30150d9f0e9.png)
 
-#### 📄 9. 관련 레포지토리
+#### 📄 12. 관련 레포지토리
 #### (작업) : https://github.com/searchme86/Deprecated-App-Market
 #### (리팩터링) : https://github.com/searchme86/Refactoring-App-agora-Market
