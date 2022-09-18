@@ -34,6 +34,19 @@ https://www.youtube.com/watch?v=lENCElKoD9g
 + 컴포넌트 파일의 확장자는 .jsx , styled-componets, redux 이외 설정파일의 확장자는 .js로 통일
 + 컴포넌트는 function(){…} 형태로 통일
 + if-else구조 보다는 삼항연산자와 nullish병합 연산자(??)를 사용
+  ```javascript
+  //  삼항 연산자
+  {pdCategory ? (
+    <PCardCategory>{pdCategory}</PCardCategory>
+	     ) : (
+    <PCardCategory>상품 타이틀</PCardCategory>
+	)}
+
+  //null 연산자
+  alt={pdTitle ?? '기본 이미지'}
+  const listViewData = dbSizeData ?? data;
+  ```
++ 구조분해할당(Destructuring)을 사용하고 값이 확실한 경우에는 점(.)연산자를 사용(ex:?.)
 
 
 
